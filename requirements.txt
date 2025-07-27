@@ -1,0 +1,12 @@
+folium
+geopandas
+ipykernel
+ipywidgets
+openpyxl
+pandas
+plotly
+python-dateutil
+requests
+seaborn
+streamlit
+streamlit-folium
